@@ -8,3 +8,5 @@ reference: https://www.kaggle.com/gregoiredc/arrhythmia-on-ecg-classification-us
 
 - [Transfer Learning for Electrocardiogram Classification Under Small Dataset](https://link.springer.com/chapter/10.1007/978-3-030-33327-0_6)
 - [Transfer Learning in ECG Classification from Human to Horse Using a Novel Parallel Neural Network Architecture](https://www.nature.com/articles/s41598-019-57025-2.pdf)
+- [Opportunities and Challenges of Deep Learning Methods for
+Electrocardiogram Data: A Systematic Review](https://arxiv.org/pdf/2001.01550.pdf)
